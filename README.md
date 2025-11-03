@@ -1,5 +1,6 @@
 # Business-report-and-data-storytelling-for-collections-strategy task 3
 how to apply AI insights in their decision-making.
+
 🧩 Project Overview
 
 This project represents Task 3 of the Geldium Credit Risk Analysis series. Building on the Exploratory Data Analysis (Task 1) and Predictive Modeling Plan (Task 2), this task focuses on translating data-driven insights into actionable business recommendations for improving Geldium’s loan collections strategy.
